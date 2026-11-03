@@ -1,5 +1,7 @@
 # code-cross
 
+[![MCP servers live](https://whobuildsagents.com/badge/advancelabs.dev.svg)](https://whobuildsagents.com/advancelabs.dev)
+
 ✞ Jesus Christ is Risen ~ Repository for project code-cross ✠
 
 A modern React application built with Vite, TailwindCSS, Redux Toolkit, and React Router.
